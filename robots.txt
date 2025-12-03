@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://joshualiee.com/sitemap.xml
+Sitemap: https://endervast.github.io/sitemap.xml
